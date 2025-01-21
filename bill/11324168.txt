@@ -1,0 +1,19 @@
+
+	    XYZ-Inventory
+ Phone No. 98725***** , Delhi-125001
+====================================
+ Customer Name: Aspiring enterprises
+ Ph no. :+91 9812365470 
+ Bill No. 11324168		Date: 11/12/2024
+====================================
+ Product Name		QTY	Price
+====================================
+        
+ Printer Paper		20	Rs.400.0
+====================================
+ Bill Amount			Rs.400.0
+ Discount			Rs.20.0
+ Net Pay			Rs.380.0
+====================================
+
+        
